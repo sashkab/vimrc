@@ -9,7 +9,7 @@ set expandtab
 
 " Use the Molokai theme (originally created for TextMate by Wimer Hazenberg)
 colorscheme molokai
-let g:molokai_original = 1
+" let g:molokai_original = 1
 
 " Make Vim more useful
 " set nocompatible
