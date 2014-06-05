@@ -1,5 +1,5 @@
 "" from http://stackoverflow.com/a/234578/881330
-set smartindent
+"set smartindent
 set tabstop=4
 set shiftwidth=4
 set expandtab
